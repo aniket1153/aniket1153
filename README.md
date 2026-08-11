@@ -1,56 +1,56 @@
-\<!-- ======================= HEADER ======================= -->
+<!-- ======================= HEADER ======================= -->
 
-\<div align="center">
+<div align="center">
 
-\<img src="profile.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Aniket Joshi"/>
+<img src="profile.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Aniket Joshi"/>
 
-\# 👋 Hi, I'm Aniket Joshi
+# 👋 Hi, I'm Aniket Joshi
 
-\### Software Developer • React Native • Full Stack • DevOps
+### Software Developer • React Native • Full Stack • DevOps
 
-\<img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;React+Native+%7C+Node.js+%7C+Backend;Learning+DevOps+%7C+Docker+%7C+AWS;Exploring+AI+%26+Cloud+Engineering](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&duration=3000\&pause=1000\&center=true\&vCenter=true\&width=650\&lines=Building+Scalable+Applications;React+Native+%7C+Node.js+%7C+Backend;Learning+DevOps+%7C+Docker+%7C+AWS;Exploring+AI+%26+Cloud+Engineering)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Applications;React+Native+%7C+Node.js+%7C+Backend;Learning+DevOps+%7C+Docker+%7C+AWS;Exploring+AI+%26+Cloud+Engineering" alt="Typing SVG" />
 
-\<br/>
+<br/>
 
-\<a href="www\.linkedin.com/in/aniket-joshi-388b81207">
-\<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)"/>
-\</a>
+<a href="www.linkedin.com/in/aniket-joshi-388b81207">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-\<a href="[https://aniketnew11portfolio.vercel.app](https://aniketnew11portfolio.vercel.app)">
-\<img src="[https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge\&logo=vercel\&logoColor=white)"/>
-\</a>
+<a href="https://aniketnew11portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-\<a href="joshianiket264\@gmail.com">
-\<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)"/>
-\</a>
+<a href="joshianiket264@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-\<br/>\<br/>
+<br/><br/>
 
-\<img src="[https://komarev.com/ghpvc/?username=YOUR\_USERNAME&style=for-the-badge&color=blue](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&style=for-the-badge\&color=blue)" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" alt="Profile Views"/>
 
-\</div>
+</div>
 
-\---
+---
 
-\## 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a \*\*Software Developer\*\* focused on building modern web and mobile applications with a growing focus on \*\*backend engineering, DevOps and cloud infrastructure\*\*.
+I'm a **Software Developer** focused on building modern web and mobile applications with a growing focus on **backend engineering, DevOps and cloud infrastructure**.
 
-\* 💻 Software Developer specializing in \*\*React Native & Full Stack Development\*\*
-\* 📱 Building production-oriented \*\*cross-platform mobile applications\*\*
-\* 🌐 Working with \*\*React, Node.js, Express and REST APIs\*\*
-\* 🗄️ Working with \*\*MongoDB, PostgreSQL, MySQL and Redis\*\*
-\* 🐳 Learning \*\*Docker, containers and CI/CD\*\*
-\* ☁️ Exploring \*\*AWS and cloud infrastructure\*\*
-\* ⚙️ Interested in \*\*automation, deployment and scalable systems\*\*
-\* 🤖 Exploring \*\*Generative AI and AI Agents\*\*
-\* 📍 Pune, India
+* 💻 Software Developer specializing in **React Native & Full Stack Development**
+* 📱 Building production-oriented **cross-platform mobile applications**
+* 🌐 Working with **React, Node.js, Express and REST APIs**
+* 🗄️ Working with **MongoDB, PostgreSQL, MySQL and Redis**
+* 🐳 Learning **Docker, containers and CI/CD**
+* ☁️ Exploring **AWS and cloud infrastructure**
+* ⚙️ Interested in **automation, deployment and scalable systems**
+* 🤖 Exploring **Generative AI and AI Agents**
+* 📍 Pune, India
 
-\---
+---
 
-\# ⚡ My Engineering Journey
+# ⚡ My Engineering Journey
 
-\`\`\`text
+```text
                     SOFTWARE DEVELOPMENT
                             │
              ┌──────────────┴──────────────┐
@@ -80,115 +80,115 @@ I'm a \*\*Software Developer\*\* focused on building modern web and mobile appli
                             │
                             ▼
                      AI / AUTOMATION
-\`\`\`
+```
 
-\---
+---
 
-\# 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-\### 🚀 Languages & Development
+### 🚀 Languages & Development
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=js,java,cpp,python,html,css](https://skillicons.dev/icons?i=js,java,cpp,python,html,css)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=js,java,cpp,python,html,css" />
+</p>
 
-\### ⚛️ Frontend & Mobile
+### ⚛️ Frontend & Mobile
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
 
-\### 🟢 Backend & Databases
+### 🟢 Backend & Databases
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,redis" />
+</p>
 
-\### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=linux,docker,githubactions,aws,nginx](https://skillicons.dev/icons?i=linux,docker,githubactions,aws,nginx)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker,githubactions,aws,nginx" />
+</p>
 
-\### 🔧 Tools
+### 🔧 Tools
 
-\<p>
-\<img src="[https://skillicons.dev/icons?i=git,github,vscode,postman](https://skillicons.dev/icons?i=git,github,vscode,postman)" />
-\</p>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
-\---
+---
 
-\# 🚀 What I Build
+# 🚀 What I Build
 
-\<table>
-\<tr>
-\<td width="50%">
+<table>
+<tr>
+<td width="50%">
 
-\### 📱 Mobile Applications
+### 📱 Mobile Applications
 
-Building cross-platform applications using \*\*React Native\*\*, REST APIs and cloud services.
+Building cross-platform applications using **React Native**, REST APIs and cloud services.
 
-\</td>
+</td>
 
-\<td width="50%">
+<td width="50%">
 
-\### 🌐 Full Stack Applications
+### 🌐 Full Stack Applications
 
-Building complete applications using \*\*React, Node.js, Express and databases\*\*.
+Building complete applications using **React, Node.js, Express and databases**.
 
-\</td>
-\</tr>
+</td>
+</tr>
 
-\<tr>
-\<td width="50%">
+<tr>
+<td width="50%">
 
-\### ⚙️ Backend Systems
+### ⚙️ Backend Systems
 
 Working with APIs, authentication, database design, caching and backend architecture.
 
-\</td>
+</td>
 
-\<td width="50%">
+<td width="50%">
 
-\### ☁️ DevOps & Cloud
+### ☁️ DevOps & Cloud
 
 Learning containerization, CI/CD, Linux, deployment and cloud infrastructure.
 
-\</td>
-\</tr>
-\</table>
+</td>
+</tr>
+</table>
 
-\---
+---
 
-\# 🔥 Featured Projects
+# 🔥 Featured Projects
 
-\## 🏥 Healthcare & Telemedicine Platform
+## 🏥 Healthcare & Telemedicine Platform
 
 A healthcare-focused mobile platform involving doctor appointments, health records, reports, multilingual experiences and ABHA-related workflows.
 
-\*\*Tech:\*\* React Native • Node.js • REST APIs • Cloud Services
+**Tech:** React Native • Node.js • REST APIs • Cloud Services
 
-\---
+---
 
-\## 🛒 OutfitHub
+## 🛒 OutfitHub
 
 A full-stack e-commerce application with product management, authentication, shopping cart and order management.
 
-\*\*Tech:\*\* React • Node.js • Express • MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
-\---
+---
 
-\## ⚡ QuickPick
+## ⚡ QuickPick
 
 A quick-commerce inspired application for browsing products and managing grocery orders.
 
-\*\*Tech:\*\* React • Node.js • Express • MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
-\---
+---
 
-\# ☁️ My DevOps Learning Path
+# ☁️ My DevOps Learning Path
 
-\`\`\`text
+```text
 Linux
   │
   ▼
@@ -230,117 +230,117 @@ Kubernetes
 Monitoring
   │
   └── Prometheus / Grafana
-\`\`\`
+```
 
-\---
+---
 
-\# 📈 Currently Learning
+# 📈 Currently Learning
 
-\<table>
-\<tr>
-\<td>🐳 Docker\</td>
-\<td>⚙️ CI/CD\</td>
-\<td>☁️ AWS\</td>
-\</tr>
-\<tr>
-\<td>🔴 Redis\</td>
-\<td>🐧 Linux\</td>
-\<td>🌐 Networking\</td>
-\</tr>
-\<tr>
-\<td>🏗️ System Design\</td>
-\<td>🤖 AI Agents\</td>
-\<td>📦 Kubernetes\</td>
-\</tr>
-\</table>
+<table>
+<tr>
+<td>🐳 Docker</td>
+<td>⚙️ CI/CD</td>
+<td>☁️ AWS</td>
+</tr>
+<tr>
+<td>🔴 Redis</td>
+<td>🐧 Linux</td>
+<td>🌐 Networking</td>
+</tr>
+<tr>
+<td>🏗️ System Design</td>
+<td>🤖 AI Agents</td>
+<td>📦 Kubernetes</td>
+</tr>
+</table>
 
-\---
+---
 
-\# 🎯 2026 Goals
+# 🎯 2026 Goals
 
-\* [ ] 🐳 Master Docker & containerization
-\* [ ] ⚙️ Build production CI/CD pipelines
-\* [ ] ☁️ Strengthen AWS knowledge
-\* [ ] 🔴 Learn Redis deeply
-\* [ ] 🐧 Improve Linux & networking skills
-\* [ ] 🏗️ Learn scalable system design
-\* [ ] 📦 Learn Kubernetes
-\* [ ] 🌍 Contribute to open-source projects
-\* [ ] 🤖 Build AI-powered applications
-\* [ ] 🚀 Deploy and maintain production systems
+* [ ] 🐳 Master Docker & containerization
+* [ ] ⚙️ Build production CI/CD pipelines
+* [ ] ☁️ Strengthen AWS knowledge
+* [ ] 🔴 Learn Redis deeply
+* [ ] 🐧 Improve Linux & networking skills
+* [ ] 🏗️ Learn scalable system design
+* [ ] 📦 Learn Kubernetes
+* [ ] 🌍 Contribute to open-source projects
+* [ ] 🤖 Build AI-powered applications
+* [ ] 🚀 Deploy and maintain production systems
 
-\---
+---
 
-\# 📊 GitHub Analytics
+# 📊 GitHub Analytics
 
-\<div align="center">
+<div align="center">
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api?username=YOUR\_USERNAME&show\_icons=true&theme=tokyonight&hide\_border=true&count\_private=true](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-\<img height="170" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1153&layout=compact&theme=tokyonight&hide\_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=aniket1153\&layout=compact\&theme=tokyonight\&hide_border=true)"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-\</div>
+</div>
 
-\---
+---
 
-\# 🔥 Contribution Streak
+# 🔥 Contribution Streak
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://streak-stats.demolab.com?user=aniket1153&theme=tokyonight&hide\_border=true](https://streak-stats.demolab.com?user=aniket1153\&theme=tokyonight\&hide_border=true)"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-\</div>
+</div>
 
-\---
+---
 
-\# 🐍 Contribution Graph
+# 🐍 Contribution Graph
 
-\<div align="center">
+<div align="center">
 
-\<img src="[https://raw.githubusercontent.com/aniket1153/aniket1153/output/github-contribution-grid-snake.svg](https://raw.githubusercontent.com/aniket1153/aniket1153/output/github-contribution-grid-snake.svg)" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
-\</div>
+</div>
 
-\---
+---
 
-\# 💡 Engineering Philosophy
+# 💡 Engineering Philosophy
 
-\<div align="center">
+<div align="center">
 
-\### \*\*Build → Break → Debug → Learn → Automate → Deploy → Repeat\*\*
+### **Build → Break → Debug → Learn → Automate → Deploy → Repeat**
 
-\</div>
+</div>
 
-\---
+---
 
-\# 📫 Let's Connect
+# 📫 Let's Connect
 
-\<div align="center">
+<div align="center">
 
-I'm always interested in \*\*software development, backend engineering, DevOps, cloud, AI and interesting technical projects.\*\*
+I'm always interested in **software development, backend engineering, DevOps, cloud, AI and interesting technical projects.**
 
-\<br/>
+<br/>
 
-\<a href="www\.linkedin.com/in/aniket-joshi-388b81207">
-\<img src="[https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)"/>
-\</a>
+<a href="https://aniketnew11portfolio.vercel.app/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-\<a href="[https://aniketnew11portfolio.vercel.app](https://aniketnew11portfolio.vercel.app)">
-\<img src="[https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge\&logo=vercel)"/>
-\</a>
+<a href="https://aniketnew11portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel"/>
+</a>
 
-\<a href="joshianiket264\@gmail.com">
-\<img src="[https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)"/>
-\</a>
+<a href="joshianiket264@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 
-\</div>
+</div>
 
-\---
+---
 
-\<div align="center">
+<div align="center">
 
-\### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-\*\*Keep building. Keep learning. Keep shipping. 🚀\*\*
+**Keep building. Keep learning. Keep shipping. 🚀**
 
-\</div>
+</div>
