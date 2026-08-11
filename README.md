@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="profile.jpeg" width="180" alt="Aniket Joshi"/>
+<img src="profile.jpeg" width="680" alt="Aniket Joshi"/>
 
 </div>
 
