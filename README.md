@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="profile.jpeg" width="150" height="150" style="border-radius: 50%;" alt="Aniket Joshi"/>
+<img src="profile.jpeg" width="450" height="150" style="border-radius: 70%;" alt="Aniket Joshi"/>
 
 # 👋 Hi, I'm Aniket Joshi
 
