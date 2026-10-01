@@ -191,6 +191,23 @@ Explore more of my backend, frontend, and mobile application projects directly o
 </table>
 
 ---
+---
+
+<!-- ======================= PORTFOLIO ======================= -->
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+I have built a dedicated portfolio website to showcase my work, skills, and professional journey in detail.
+
+<br/>
+
+<a href="https://aniketnew11portfolio.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
+</div>
 
 <!-- ======================= GITHUB STATS ======================= -->
 
