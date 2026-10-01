@@ -68,7 +68,8 @@ Working on the healthcare product **Setu — One World One Health**. My responsi
 - Debugging Android native issues, network proxy problems, and production/staging bugs.
 - Utilizing tools like **Android Studio, Gradle, Metro, and Git** for development and deployment.
 
-### Full Stack Developer Intern | DevfIA
+### Full Stack Developer Intern | DevifAI
+
 **May 2025 – Nov 2025** | 6 Months
 
 - Developed and maintained web applications using the **MERN stack** (MongoDB, Express, React, Node.js).
