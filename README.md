@@ -4,8 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniket%20Joshi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18" width="100%" alt="Header Banner"/>
 
-<!-- Animated Tech SVG (Replaces Profile Photo) -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.svg" width="160" height="160" alt="Developer" style="margin-top: -30px; margin-bottom: 15px;" />
+<!-- Reliable Tech Avatar (Replaces Profile Photo) -->
+<img src="https://api.dicebear.com/7.x/bottts/svg?seed=AniketJoshi&backgroundColor=0d1117" width="150" height="150" style="border-radius: 50%; border: 4px solid #1f6feb; margin-top: -30px; margin-bottom: 15px;" alt="Tech Avatar"/>
 
 <!-- Role Badges -->
 <br/>
@@ -68,8 +68,7 @@ Working on the healthcare product **Setu — One World One Health**. My responsi
 - Debugging Android native issues, network proxy problems, and production/staging bugs.
 - Utilizing tools like **Android Studio, Gradle, Metro, and Git** for development and deployment.
 
-### Full Stack Developer Intern | DevifAI
-
+### Full Stack Developer Intern | DevfIA
 **May 2025 – Nov 2025** | 6 Months
 
 - Developed and maintained web applications using the **MERN stack** (MongoDB, Express, React, Node.js).
@@ -205,6 +204,18 @@ Explore more of my backend, frontend, and mobile application projects directly o
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=aniket1153&theme=tokyonight&background=0d1117&hide_border=true" alt="Streak Stats"/>
+
+</div>
+
+---
+
+<!-- ======================= CONTRIBUTION ACTIVITY ======================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aniket1153/aniket1153/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
