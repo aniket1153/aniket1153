@@ -4,8 +4,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aniket%20Joshi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Software%20Developer%20%E2%80%A2%20React%20Native%20%E2%80%A2%20Full%20Stack&descAlignY=55&descSize=18" width="100%" alt="Header Banner"/>
 
-<!-- Circular Profile Image -->
-<img src="profile.jpeg" width="160" height="160" style="border-radius: 50%; object-fit: cover; border: 4px solid #1f6feb; margin-top: -30px; margin-bottom: 15px;" alt="Aniket Joshi"/>
+<!-- Animated Tech SVG (Replaces Profile Photo) -->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.svg" width="160" height="160" alt="Developer" style="margin-top: -30px; margin-bottom: 15px;" />
+
+<!-- Role Badges -->
+<br/>
+<img src="https://img.shields.io/badge/Role-Software_Developer-1f6feb?style=for-the-badge&logo=code&logoColor=white" alt="Role"/>
+<img src="https://img.shields.io/badge/Specialty-React_Native_%7C_Full_Stack-1f6feb?style=for-the-badge&logo=react&logoColor=white" alt="Specialty"/>
+
+<br/><br/>
 
 <h3>👋 Hi, I'm Aniket Joshi</h3>
 
